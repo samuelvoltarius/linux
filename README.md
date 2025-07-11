@@ -19,6 +19,9 @@ branding/
   astrohacker-setup.desktop
 ```
 
+`astro_install.sh` bindet automatisch die PPAs `ppa:pch/phd2` und
+`ppa:mutlaqja/ppa` ein, damit PHD2 und INDI installiert werden können.
+
 ## Cubic-Build/Integration
 
 1. **Starte Cubic und wähle deine Ubuntu-ISO.**
