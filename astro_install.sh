@@ -6,7 +6,11 @@ sudo add-apt-repository -y ppa:pch/phd2
 
 # PHD2 depends on INDI packages from the mutlaqja PPA
 sudo add-apt-repository -y ppa:mutlaqja/ppa
-=======
+
+
+# PHD2 depends on INDI packages from the mutlaqja PPA
+sudo add-apt-repository -y ppa:mutlaqja/ppa
+
 sudo apt update
 sudo apt install -y kstars phd2 siril gphoto2 entangle
 sudo apt install -y flatpak
